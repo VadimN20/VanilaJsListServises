@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: #c9d498;
+  color: #18211b;
+}
+
+main {
+  margin-left: 1rem;
+}
+
+a {
+  text-decoration: none;
+  transition: 0.2s;
+}
+
+a:hover {
+  font-size: 1.1rem;
+}
+
+ul {
+  margin-left: 1rem;
+}
+
+li {
+  list-style: none;
+}
